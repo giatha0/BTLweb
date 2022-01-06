@@ -1,0 +1,153 @@
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.dll.config
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.pdb
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.Mvc.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.Mvc.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopBaLoTuiXach.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopBaLoTuiXach.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopBaLoTuiXach.csproj.CopyComplete
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopQuanAo.dll
+C:\Users\HP\Downloads\Thanh toán Ngân Lượng api_bán quần áo asp.net\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopQuanAo.pdb
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.dll.config
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\ShopQuanAo.pdb
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.exe
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.exe.config
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csc.rsp
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.exe
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.exe.config
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\csi.rsp
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.AppContext.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Console.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.exe
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.exe.config
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\vbc.rsp
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.SqlServer.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.Mvc.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Helpers.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Mvc.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Razor.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Razor.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\EntityFramework.SqlServer.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\PagedList.Mvc.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Razor.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Webpages.Razor.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Helpers.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\System.Web.Mvc.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopBaLoTuiXach.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopBaLoTuiXach.csproj.CopyComplete
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopQuanAo.dll
+C:\Users\Phuong Thao\Desktop\aspnet\ShopBaLoTuiXach2022\ShopBaLoTuiXach\obj\Debug\ShopQuanAo.pdb

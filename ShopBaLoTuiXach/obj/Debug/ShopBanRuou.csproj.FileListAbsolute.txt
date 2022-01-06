@@ -1,0 +1,154 @@
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\ShopQuanAo.dll.config
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\ShopQuanAo.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\ShopQuanAo.pdb
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csc.exe
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csc.exe.config
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csc.rsp
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csi.exe
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csi.exe.config
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\csi.rsp
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.AppContext.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Console.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.IO.Compression.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Claims.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.ValueTuple.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\vbc.exe
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\vbc.exe.config
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\vbc.rsp
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\EntityFramework.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\EntityFramework.SqlServer.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\PagedList.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\PagedList.Mvc.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Helpers.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Mvc.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Razor.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.Razor.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\EntityFramework.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\EntityFramework.SqlServer.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\PagedList.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\PagedList.Mvc.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Razor.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Webpages.Razor.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Helpers.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\System.Web.Mvc.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\obj\Debug\ShopBanRuou.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\obj\Debug\ShopBanRuou.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\obj\Debug\ShopBanRuou.csproj.CopyComplete
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\obj\Debug\ShopQuanAo.dll
+C:\Users\Computer\Desktop\webbanruou2020\ShopBanRuou\ShopBanRuou\obj\Debug\ShopQuanAo.pdb
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\ShopQuanAo.dll.config
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\ShopQuanAo.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\ShopQuanAo.pdb
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csc.exe
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csc.exe.config
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csc.rsp
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csi.exe
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csi.exe.config
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\csi.rsp
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.Managed.Core.targets
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.AppContext.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Console.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.IO.Compression.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.IO.FileSystem.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.IO.Pipes.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.AccessControl.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Claims.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Security.Principal.Windows.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.ValueTuple.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Xml.XmlDocument.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Xml.XPath.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\vbc.exe
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\vbc.exe.config
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\vbc.rsp
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\VBCSCompiler.exe
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\EntityFramework.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\EntityFramework.SqlServer.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\PagedList.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\PagedList.Mvc.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Helpers.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Mvc.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Razor.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.Deployment.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.Razor.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\EntityFramework.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\EntityFramework.SqlServer.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\PagedList.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\PagedList.Mvc.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Razor.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.Deployment.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Webpages.Razor.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Helpers.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\System.Web.Mvc.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\obj\Debug\ShopBanRuou.csprojAssemblyReference.cache
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\obj\Debug\ShopBanRuou.csproj.CoreCompileInputs.cache
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\obj\Debug\ShopBanRuou.csproj.CopyComplete
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\obj\Debug\ShopQuanAo.dll
+K:\bán quần áo 2020\ShopBanQuanAo\ShopBanQuanAo\obj\Debug\ShopQuanAo.pdb

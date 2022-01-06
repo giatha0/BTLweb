@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ShopBaLoTuiXach.Models.Mmenu>
+<!-- navbar-->
+<section>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dodam  container-fluid" style="background-color:orange">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                @foreach (var item in Model)
+                {
+                        @Html.Action("submainmenu", "module" ,new {parentid = item.ID})
+                }
+            </ul>
+            <form class="form-inline my-2 my-lg-0" method="GET" action="/sanpham/search/">
+                
+                <input class="form-control mr-sm-2" type="search" name="keyw" placeholder="Tìm kiếm theo tên sản phẩm" style="width: 180px; font-size: 12px; padding: 2px 5px;">
+                <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </div>
+</nav>
+    </section>
+<!-- /navbar-->
